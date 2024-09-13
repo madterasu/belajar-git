@@ -1,5 +1,9 @@
 hai
 
+<<<<<<< Updated upstream
 siapa kamu (ArFn)
 
 BY BREWOK
+=======
+siapa kamu (ArFn)
+>>>>>>> Stashed changes

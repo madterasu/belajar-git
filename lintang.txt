@@ -1,4 +1,8 @@
 hallow
+<<<<<<< Updated upstream
 Halo Lintang (ArFn)
 
 BY BREWOK
+=======
+Halo Lintang (ArFn)
+>>>>>>> Stashed changes

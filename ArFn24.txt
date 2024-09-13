@@ -2,4 +2,8 @@ Hai Ini Buatan Arifin 😊
 
 KOCAK
 
+<<<<<<< Updated upstream
 BY BREWOK
+=======
+konyol
+>>>>>>> Stashed changes

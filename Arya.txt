@@ -1,5 +1,18 @@
 Hallo mas Assalammualikum
+<<<<<<< Updated upstream
 
 Waalaikumsalam
 
 BY BREWOK
+=======
+<<<<<<< HEAD
+wowo
+=======
+
+Waalaikumsalam
+>>>>>>> 0e46fd414ad11221c3245fb552eae757ac8629b5
+
+
+
+selamat jalan
+>>>>>>> Stashed changes
